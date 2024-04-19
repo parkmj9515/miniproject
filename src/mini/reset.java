@@ -108,5 +108,9 @@ public class reset {
 			n.setHp();
 		}
 	}
+	private static void readTxt(String name) {
+		
+		
+	}
 
 }
